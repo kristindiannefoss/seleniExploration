@@ -1,0 +1,2 @@
+# seleniExploration
+testcafe vs selenium
